@@ -1,9 +1,6 @@
-### Hi there 👋
+### Important Issues 👋
 
-<!--
-**liujunqiscu/liujunqiscu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on unsupervised leanring, deep clustering and deep learning on graphs!
 
