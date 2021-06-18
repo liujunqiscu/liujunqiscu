@@ -6,7 +6,7 @@
 
 - 🤔 I’m looking for help with pasionate students who are interesting in this filed!
 
-- 📫 Contact me: liujunqi19@nudt.edu.cn
+- 📫 Contact me: liujunqi@nudt.edu.cn
 
 -->
  
